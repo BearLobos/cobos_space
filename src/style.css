@@ -34,6 +34,12 @@ nav {
     color: white;
 }
 
+.about {
+    width: 30vw;
+    margin: 0 auto;
+    text-align: center;
+}
+
 .center {
     text-align: center;
 }

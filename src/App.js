@@ -10,7 +10,7 @@ function App() {
             <Nav />
             <Switch>
                 <Route path="/" exact component={About} />
-                <Route path="/cobos_space/" component={About}/>
+                <Route path="/cobos_space" component={About}/>
                 <Route path="/meme-generator" component={MemeForm}/>
             </Switch>
         </Router>

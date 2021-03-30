@@ -2,9 +2,14 @@ import React from "react"
 
 function About() {
     return (
-        <div>
+        <div className="about">
             <h1>Gabriel Cobos</h1>
-            <p className="center">I like to go on long walks on beaches</p>
+            <h2>Passionate, Focused, Flexible</h2>
+            <p>
+                I'm 22, from Southern California, enjoy the outdoors, and love all things web development.
+                You'll find that I can make nearly any situation work for me, and take pride in working well with others.
+            </p>
+            <p>Lets build something.</p>
         </div>
     )
 }
